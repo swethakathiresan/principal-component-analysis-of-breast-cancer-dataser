@@ -12,23 +12,23 @@ Principal Component Analysis is an unsupervised learning algorithm that is used 
 
 __The PCA algorithm is based on some mathematical concepts such as:__
 
-->Variance and Covariance
+  ->Variance and Covariance
 
-->Eigenvalues and Eigen factors
+  ->Eigenvalues and Eigen factors
 
 
 
 __Some common terms used in PCA algorithm:__
 
--> Dimensionality
+  -> Dimensionality
 
--> Correlation
+  -> Correlation
 
--> Orthogonal
+  -> Orthogonal
 
--> Eigenvectors
+  -> Eigenvectors
 
--> Covariance Matrix
+  -> Covariance Matrix
 
 
 __Steps for PCA algorithm:__
@@ -45,6 +45,6 @@ __Steps for PCA algorithm:__
 
 __Applications of PCA:__
 
--> PCA is mainly used as the dimensionality reduction technique in various AI applications such as computer vision, image compression, etc.
+  -> PCA is mainly used as the dimensionality reduction technique in various AI applications such as computer vision, image compression, etc.
 
-->It can also be used for finding hidden patterns if data has high dimensions. Some fields where PCA is used are Finance, data mining, Psychology, etc.
+  ->It can also be used for finding hidden patterns if data has high dimensions. Some fields where PCA is used are Finance, data mining, Psychology, etc.
