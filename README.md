@@ -13,3 +13,16 @@ The PCA algorithm is based on some mathematical concepts such as:
 ->Variance and Covariance
 
 ->Eigenvalues and Eigen factors
+
+
+Some common terms used in PCA algorithm:
+
+-> Dimensionality
+
+-> Correlation
+
+-> Orthogonal
+
+-> Eigenvectors
+
+-> Covariance Matrix
